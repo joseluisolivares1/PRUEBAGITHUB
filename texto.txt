@@ -1,1 +1,3 @@
 Pull: Consiste en la unión del fetch y del merge, esto es, recoge la información del repositorio remoto y luego mezcla el trabajo en local con esta.
+
+Agregando el comentario extra
